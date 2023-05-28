@@ -1,0 +1,6 @@
+conda activate sqid
+pip install mkdocs-material
+https://www.youtube.com/watch?v=Q-YA_dA8C20
+
+mkdocs new .
+mkdocs serve
