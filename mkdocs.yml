@@ -36,6 +36,9 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - tags:
       tags_file: tags.md
+  - offline:
+      enabled: !ENV [OFFLINE, false]
+
 
 
 extra:
