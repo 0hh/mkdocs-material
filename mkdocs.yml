@@ -1,8 +1,8 @@
-site_name: where is my shit!? 
+site_name: Findr
 site_url: https://www.whereismysh.it/
 theme:
   name: material
-  logo: assets/logo.png
+#  logo: assets/logo.png
   features:
     - content.tabs.link
     - content.code.annotation
@@ -21,7 +21,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: white
+      primary: indigo
       accent: lime 
     - scheme: slate 
       toggle:
@@ -41,12 +41,12 @@ plugins:
 
 
 
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/0hh
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/dtru/
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github-alt
+#       link: https://github.com/0hh
+#     - icon: fontawesome/brands/linkedin
+#       link: https://www.linkedin.com/in/dtru/
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -65,5 +65,5 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-copyright: |
-  &copy; 2023 <a href="https://github.com/0hh"  target="_blank" rel="noopener">Dimitrios Truchan</a>
+# copyright: |
+#   &copy; 2023 <a href="https://github.com/0hh"  target="_blank" rel="noopener">Dimitrios Truchan</a>
