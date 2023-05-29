@@ -1,0 +1,1 @@
+Box mit lustigen Stickern von AliExpress
