@@ -1,0 +1,55 @@
+docs:
+- Gartenhaus:
+  - Bad:
+    - Desinfektionsmittel.md
+  - Lounge: []
+  - Arbeitszimmer:
+    - Baumaterial.md
+  - Kaminzimmer:
+    - Werkzeugwanne.md
+    - Kabeltrommel.md
+  - "Ger\xE4teraum":
+    - "Gartenger\xE4te.md"
+  - Schlafzimmer:
+    - Regal-1:
+      - Box-A.md
+- assets:
+  - logo.png
+  - favicon.png
+- Wohnung:
+  - Flur:
+    - Spiegelschrank:
+      - Box-9:
+        - Wrestlingmasken.md
+        - Stickerbox.md
+        - Kinesiotape.md
+      - Box-7:
+        - Handschuhe-Klimmzugstange.md
+        - Analog-Kamera.md
+        - Klimmzugstange.md
+      - Box-10:
+        - Poloshirts.md
+      - Box-8:
+        - Wandfarbe.md
+        - Nebelmaschine.md
+    - Schuhschrank: []
+  - Wohnzimmer:
+    - Kleiderschrank:
+      - Dokumenten-Tasche:
+        - Geburtsurkunde.md
+    - Mini-Bar:
+      - Mittlere_Schublade:
+        - Tanzlizens.md
+      - Untere_Schublade:
+        - Feuerzeug.md
+      - Oberste_Schublade:
+        - Tanzlizens.md
+  - Esszimmer:
+    - Kommode:
+      - rechte Box:
+        - Box-Handschuhe.md
+  - Schlafzimmer:
+    - Unterm_Bett:
+      - Zoes_Schlafsack.md
+- index.md
+- tags.md
